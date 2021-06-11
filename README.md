@@ -8,6 +8,4 @@ There are some sections:
   - Preprocess the customer reviews by Tokenizing and Stemming
   - Extract the feature and build the TF-IDF matrix
   - Train unsupervised learning model by K-Means and Latent Dirichlet Allocation Algorithm
-  - Result Evaluation:
-  -   From LDA, we can see from the customer review: topics are about god, nice ,beauti, etc 
-  -   From K-means, we can see also love, nice, good, but it is not cheap.
+  - Result Evaluation: From LDA, we can see from the customer review: topics are about god, nice ,beauti, etc. From K-means, we can see also love, nice, good, but it is not cheap.
